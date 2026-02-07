@@ -1,0 +1,13 @@
+node_modules
+.env
+.env.production
+.env.local
+.env.*.local
+client/node_modules
+client/build
+client/.env
+client/.env.local
+client/.env.production
+client/.env.production.local
+.DS_Store
+node_modules
