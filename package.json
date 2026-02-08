@@ -11,18 +11,10 @@
     "build": "cd client && npm run build",
     "start": "node server/index.js"
   },
-  "keywords": [
-    "survey",
-    "react",
-    "express",
-    "mongodb"
-  ],
+  "keywords": ["survey", "react", "express", "mongodb"],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^8.2.2"
-  },
-  "dependencies": {
-    "dotenv": "^17.2.4"
   }
 }
